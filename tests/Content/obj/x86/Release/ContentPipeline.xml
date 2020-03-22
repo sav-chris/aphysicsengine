@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <RootDirectory>C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\tests\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\vs10\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\tests\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\bin\tests\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-12-21T20:18:24.8698961+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

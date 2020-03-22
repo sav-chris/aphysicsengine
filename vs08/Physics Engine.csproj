@@ -1,0 +1,69 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>../src/Properties</AppDesignerFolder>
+    <RootNamespace>PhysicsEngine</RootNamespace>
+    <AssemblyName>Physics Engine</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\src\Particle.cs" />
+    <Compile Include="..\src\ParticleParameters.cs" />
+    <Compile Include="..\src\ParticleSystem.cs" />
+    <Compile Include="..\src\ParticleSystemParameters.cs" />
+    <Compile Include="..\src\CollisionResult.cs" />
+    <Compile Include="..\src\CollisionHandler.cs" />
+    <Compile Include="..\src\Hull.cs" />
+    <Compile Include="..\src\ConvexHull.cs" />
+    <Compile Include="..\src\EntityCollection.cs" />
+    <Compile Include="..\src\Environment.cs" />
+    <Compile Include="..\src\Properties\AssemblyInfo.cs" />
+    <Compile Include="..\src\Entity.cs" />
+    <Compile Include="..\src\CommonFunctions.cs" />
+    <Compile Include="..\src\ConvexSegment.cs" />
+    <Compile Include="..\src\DefaultEntity.cs" />
+    <Compile Include="..\src\ElasticCollision.cs" />
+    <Compile Include="..\src\NonForceEntity.cs" />
+    <Compile Include="..\src\PhysicsParameters.cs" />
+    <Compile Include="..\src\StaticCollision.cs" />
+    <Compile Include="..\src\StaticEntity.cs" />
+    <Compile Include="..\src\Triangle.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

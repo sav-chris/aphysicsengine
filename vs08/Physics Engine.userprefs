@@ -1,0 +1,30 @@
+﻿<UserCombinePreferences version="1.0" filename="/media/Chris/Chris/Projects/The APE Project/development/Summer Development/Physics Engine/trunk/vs08/Physics Engine.sln">
+  <Files>
+    <File name="Welcome" />
+    <File name="../src/Properties/AssemblyInfo.cs" line="1" column="1" />
+    <File name="../src/Hull.cs" line="29" column="33" />
+    <File name="../src/CollisionHandler.cs" line="1" column="1" />
+    <File name="../src/CollisionResult.cs" line="1" column="1" />
+    <File name="../src/CommonFunctions.cs" line="1" column="1" />
+    <File name="../src/ConvexHull.cs" line="1" column="1" />
+    <File name="../src/Environment.cs" line="1" column="1" />
+  </Files>
+  <Views>
+    <ViewMemento id="ProjectPad">
+      <Node expanded="True">
+        <Node name="Physics Engine" expanded="True">
+          <Node name="ExternalFiles" expanded="True">
+            <Node name="Environment.cs" selected="True" />
+          </Node>
+        </Node>
+      </Node>
+    </ViewMemento>
+    <ViewMemento id="ClassPad">
+      <Node expanded="True" />
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Property key="ActiveWindow" value="/media/Chris/Chris/Projects/The APE Project/development/Summer Development/Physics Engine/trunk/src/Environment.cs" />
+    <Property key="ActiveConfiguration" value="Debug|Any CPU" />
+  </Properties>
+</UserCombinePreferences>

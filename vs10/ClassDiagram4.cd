@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="PhysicsEngine.CollisionHandler">
+    <Position X="1.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\CollisionHandler.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.CollisionResult&lt;T&gt;" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\CollisionResult.cs</FileName>
+      <HashCode>AAACAACAAAAAgAAAAAAAAAgAAAAIAABACACAAAAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.CommonFunctions" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\CommonFunctions.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAwJAAAABAAAAQAAAAAAAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ConvexHull" Collapsed="true">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\ConvexHull.cs</FileName>
+      <HashCode>AIAAAAAAAQAAAAQgAAAAAAQAAAAEAAAAAAAAAACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ConvexSegment" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\ConvexSegment.cs</FileName>
+      <HashCode>AAAAAAAAAEAAABAAAAAAAQQAAAAQAAAAEAAAAAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.DefaultEntity" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\DefaultEntity.cs</FileName>
+      <HashCode>AAAAAAAAAAAIAAAAAgAACAABAAEAAABAAAAAAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ElasticCollision">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\ElasticCollision.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAIAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.Entity" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\Entity.cs</FileName>
+      <HashCode>AIQBAAAAAQAAAIQgIAAAKAQhgEAAAIIAAAAAAASMABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.EntityCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\EntityCollection.cs</FileName>
+      <HashCode>AQIQAAAAAIEAAAAAAAAABQAABAAIAAAEACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PhysicsEngine.Environment">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\Environment.cs</FileName>
+      <HashCode>AAYAAAAAAIAAAAAAAAAQBAIAAAACAQAAAAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.Hull" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\Hull.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.NonForceEntity" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\NonForceEntity.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.Particle">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\Particle.cs</FileName>
+      <HashCode>EIQIAAgAAAACAAAgAAAAIAAAAAAAAAgAAAQAABAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ParticleParameters" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\ParticleParameters.cs</FileName>
+      <HashCode>EMAAAAhAAAAKQAAAAgAAAAAAAAAAAAAAAAQAABDEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ParticleSystem" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\ParticleSystem.cs</FileName>
+      <HashCode>AAQAAAAIAABAiQAAAAgAAAAAAIAAAIAgAAAAAAACAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ParticleSystemParameters" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\ParticleSystemParameters.cs</FileName>
+      <HashCode>EIKAAQhEAAIOYIAiAiAAIAABAMAAAYCAACIAABCiQIE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.PhysicsParameters">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\PhysicsParameters.cs</FileName>
+      <HashCode>AAAgAAgAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.StaticCollision">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\StaticCollision.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.StaticEntity" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\StaticEntity.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PhysicsEngine.Triangle" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\Chris\Projects\The APE Project\development\Summer Development\Physics Engine\trunk\src\Triangle.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAIAACgAQAAoAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+</ClassDiagram>

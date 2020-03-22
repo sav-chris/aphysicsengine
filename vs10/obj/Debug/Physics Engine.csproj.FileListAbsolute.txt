@@ -1,0 +1,20 @@
+C:\Chris\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\bin\Debug\Physics Engine.dll
+C:\Chris\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\bin\Debug\Physics Engine.pdb
+C:\Chris\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\vs08\obj\Debug\ResolveAssemblyReference.cache
+C:\Chris\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\vs08\obj\Debug\Physics Engine.dll
+C:\Chris\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\vs08\obj\Debug\Physics Engine.pdb
+C:\Archive\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\bin\Debug\Physics Engine.dll
+C:\Archive\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\bin\Debug\Physics Engine.pdb
+C:\Archive\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\vs08\obj\Debug\ResolveAssemblyReference.cache
+C:\Archive\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\vs08\obj\Debug\Physics Engine.dll
+C:\Archive\Projects\The APE Project\development\Deployment\aphysicsengine\trunk\vs08\obj\Debug\Physics Engine.pdb
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\bin\Debug\Physics Engine.dll
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\bin\Debug\Physics Engine.pdb
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\vs10\obj\Debug\ResolveAssemblyReference.cache
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\vs10\obj\Debug\Physics Engine.dll
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\vs10\obj\Debug\Physics Engine.pdb
+C:\Users\Chris\Desktop\aphysicsengine\trunk\bin\Debug\Physics Engine.dll
+C:\Users\Chris\Desktop\aphysicsengine\trunk\bin\Debug\Physics Engine.pdb
+C:\Users\Chris\Desktop\aphysicsengine\trunk\vs10\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\aphysicsengine\trunk\vs10\obj\Debug\Physics Engine.dll
+C:\Users\Chris\Desktop\aphysicsengine\trunk\vs10\obj\Debug\Physics Engine.pdb

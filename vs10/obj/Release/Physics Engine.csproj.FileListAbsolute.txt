@@ -1,0 +1,10 @@
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\bin\Release\Physics Engine.dll
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\bin\Release\Physics Engine.pdb
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\vs10\obj\Release\ResolveAssemblyReference.cache
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\vs10\obj\Release\Physics Engine.dll
+C:\Archive\Projects\XNA Project\Space Shooter\aphysicsengine\trunk\vs10\obj\Release\Physics Engine.pdb
+C:\Users\Chris\Desktop\aphysicsengine\trunk\bin\Release\Physics Engine.dll
+C:\Users\Chris\Desktop\aphysicsengine\trunk\bin\Release\Physics Engine.pdb
+C:\Users\Chris\Desktop\aphysicsengine\trunk\vs10\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\aphysicsengine\trunk\vs10\obj\Release\Physics Engine.dll
+C:\Users\Chris\Desktop\aphysicsengine\trunk\vs10\obj\Release\Physics Engine.pdb

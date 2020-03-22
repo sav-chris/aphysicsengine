@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PhysicsEngine.CollisionHandler" Collapsed="true">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\CollisionHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.CollisionResult&lt;T&gt;" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAgAAAAAAAAAgAAAAIAABACACAAAAAgAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\CollisionResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.CommonFunctions" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAwJAAAABAAAAQAAAAAAAAEAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\CommonFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ConvexHull">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAQAAAAQgAAAAAAQAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\ConvexHull.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ConvexSegment">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAABABAAAAAQQAAAAQAAAAEAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\ConvexSegment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.DefaultEntity">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAMAAAAAgAACAABAAEAAABAAIAAAAAIAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\DefaultEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ElasticCollision" Collapsed="true">
+    <Position X="2.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\ElasticCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.Entity">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAQAAIIQwIAAACAQhgEAAAAIIAAAAgASMARA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.EntityCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="PhysicsEngine.EntityCollection.Box" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\EntityCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="PhysicsEngine.EntityCollection.BaseNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\EntityCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PhysicsEngine.EntityCollection.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\EntityCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PhysicsEngine.EntityCollection.Leaf" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\EntityCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PhysicsEngine.EntityCollection.XComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\EntityCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="PhysicsEngine.EntityCollection.YComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\EntityCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="PhysicsEngine.EntityCollection.ZComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\EntityCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQIQAAAAAIEAAAAAAAAABQAABAAIAAAEACAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\EntityCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PhysicsEngine.Environment" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAIAAAAAAAAAQBAIAAAAAAQAAAAEAAAAAEAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.Hull">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\Hull.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.NonForceEntity" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\NonForceEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.Particle" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQIAAgAAAACAAAgAAAAAAAACAAAgAAAAAQAgBAAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ParticleParameters" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EMAAAAhAAAAKQAAAAgAAAAAAAAAAAAAAAAQAABDEAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\ParticleParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ParticleSystem" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAABAiQAAAAAAAAAAAIAAAIAgAAAAAAACAAQ=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\ParticleSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.ParticleSystemParameters" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIKAAQhEAAIOYIAiAiAAIAABAMAAAYCAACIAABCiQIE=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\ParticleSystemParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.PhysicsParameters" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAgAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\PhysicsParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.StaticCollision" Collapsed="true">
+    <Position X="4.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\StaticCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEngine.StaticEntity" Collapsed="true">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\StaticEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PhysicsEngine.Triangle" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAIAACgAQAAoAEAAAA=</HashCode>
+      <FileName>C:\Users\Chris\Desktop\aphysicsengine\trunk\src\Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
